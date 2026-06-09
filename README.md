@@ -54,8 +54,7 @@ The primary goals of this project are:
 
 ### Madhav Ecommerce Sales Dashboard
 
-![Madhav Ecommerce Sales Dashboard](images/Madhav_Dashboard.png)
-
+Madhavsale.png
 ---
 
 ### Dashboard Preview
