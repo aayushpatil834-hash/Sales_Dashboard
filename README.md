@@ -54,8 +54,7 @@ The primary goals of this project are:
 
 ### Madhav Ecommerce Sales Dashboard
 
-https://github.com/aayushpatil834-hash/Sales_Dashboard/blob/main/Madhavsale.png---
-
+https://github.com/aayushpatil834-hash/Sales_Dashboard/blob/main/Madhavsale.png
 ### Dashboard Preview
 
 The dashboard provides an interactive overview of ecommerce sales performance, including:
