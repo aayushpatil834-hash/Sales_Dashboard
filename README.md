@@ -1,4 +1,4 @@
-# Sales_Dashboard
+# Ecom_Sales_Dashboard
 
 # 📊 Madhav Ecommerce Sales Dashboard
 
